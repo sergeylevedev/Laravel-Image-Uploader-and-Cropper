@@ -133,7 +133,7 @@ Sergey Levedev - [GitHub](https://github.com/sergeylevedev)
 
 ## License
 
-Copyright (c) 2016 Sergey https://github.com/sergeylevedev
+Copyright (c) 2016 https://github.com/sergeylevedev
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
 
