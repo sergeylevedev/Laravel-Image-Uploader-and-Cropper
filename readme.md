@@ -129,11 +129,11 @@ You can pass `t` (thumbnail), `s` (small), `m` (medium) or `l` (large) as second
 
 ## Authors
 
-Atul Yadav - [GitHub](https://github.com/atulmy) &bull; [Twitter](https://twitter.com/atulmy)
+Sergey Levedev - [GitHub](https://github.com/sergeylevedev) 
 
 ## License
 
-Copyright (c) 2015 Noonic Lab http://github.com/noonic
+Copyright (c) 2015 Noonic Lab https://github.com/sergeylevedev
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)
 
